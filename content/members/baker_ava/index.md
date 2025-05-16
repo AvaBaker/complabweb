@@ -21,6 +21,6 @@ disableAnchoredHeadings: false
 Ava is a Population Health major with minors in Maternal and Child Health and Psychology in the Department of Population Health at the College of Health at Lehigh University.
 Ava's research focuses on infectious disease.
 Ava's long-term goal is to make a difference in underserved communities.
-[Linked in]((https://www.linkedin.com/in/ava-baker-0828a0233/))
+[Linked in](https://www.linkedin.com/in/ava-baker-0828a0233/)
 [GitHub](https://github.com/AvaBaker)
 
